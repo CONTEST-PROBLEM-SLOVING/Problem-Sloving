@@ -2,8 +2,6 @@ var mostFrequent = null, mostFrequentItem;
 
 var arr=['s','s','f','s','t','s'];
 
-arr.sort();
-
 for (var i = 0 ; i<arr.length; i++) {
      
       var single = arr[i];
